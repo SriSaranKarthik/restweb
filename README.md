@@ -1,4 +1,4 @@
-# Ex.06 Restaurant Website
+# Ex.07 Restaurant Website
 ## Date:13.11.2025
 
 ## AIM:
